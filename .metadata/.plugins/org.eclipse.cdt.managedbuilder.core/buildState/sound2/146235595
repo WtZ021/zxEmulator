@@ -1,0 +1,19 @@
+#
+#Sun Jun 28 23:56:43 YEKT 2020
+Debug/WaveGenerator.o=1
+EnvelopeGenerator.h=1
+Debug/sound2.exe=1
+WaveGenerator.cc=1
+AudioDriver.cc=1
+Debug/main.o=1
+Debug/AudioDriver.o=1
+main.cc=1
+globals.h=1
+FMWaveGenerator.h=1
+EnvelopeGenerator.cc=1
+Debug/FMWaveGenerator.o=1
+SoundSource.h=1
+WaveGenerator.h=1
+AudioDriver.h=1
+FMWaveGenerator.cc=1
+Debug/EnvelopeGenerator.o=1

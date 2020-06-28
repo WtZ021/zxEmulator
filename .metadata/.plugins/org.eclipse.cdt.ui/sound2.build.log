@@ -1,0 +1,12 @@
+23:56:43 **** Incremental Build of configuration Debug for project sound2 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Wikimania\\Desktop\\eclipse-2018.09\\Libraries\\include" -O0 -g3 -Wall -c -fmessage-length=0 -o AudioDriver.o "..\\AudioDriver.cc" 
+Cannot run program "g++": Launching failed
+
+Error: Program "g++" not found in PATH
+PATH=[C:\MinGW\bin;\bin;\usr\bin;C:/Program Files/Java/jre1.8.0_144/bin/server;C:/Program Files/Java/jre1.8.0_144/bin;C:/Program Files/Java/jre1.8.0_144/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Files\cpp\bin\Intel64;C:\Python38\Scripts\;C:\Python38\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Users\Wertiz\AppData\Local\Microsoft\WindowsApps;C:\adb;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\Wolfram Research\WolframScript\;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Users\Wertiz\AppData\Local\Microsoft\WindowsApps;C:\Users\Wertiz\AppData\Roaming\npm;C:\Users\Wertiz\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Wertiz\AppData\Local\Programs\MiKTeX 2.9\miktex\bin\x64\;D:\downloads\!Учеба\программирование]
+
+
+23:56:43 Build Finished. 0 errors, 0 warnings. (took 135ms)
+
